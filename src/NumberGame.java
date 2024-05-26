@@ -46,7 +46,7 @@ public class NumberGame {
                 }
             }catch (Exception e){
                 System.out.println("Please enter a valid number.");
-                scanner.nextInt();
+                scanner.next();
             }
             
             
